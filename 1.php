@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Document</title>
     <style>
-        hear{width: 400px;margin: 0 auto;border: 1px solid #ccc;padding 10px;}
+        hear{width: 400px;margin: 0 auto;border: 1px solid #ccc;padding 10px;text-align: center;}
         h1,p,img {margin:0 auto;}
     </style>
 </head>
